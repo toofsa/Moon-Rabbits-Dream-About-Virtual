@@ -34,7 +34,7 @@
 @import url("https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/pop.css");
 
 /* Reverse the position of Server list and members */
-@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/reverse.css');
+/* @import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/reverse.css'); */
 
 /*------------------------------------------------------
                 all the customization
@@ -50,11 +50,11 @@
     --name-bg: #d95b72;
 
     /* Background Colors & BG Image */
-    --bg-gradient1: #e297b2;
-    --bg-gradient2: #c0b4d5;
-    --bg-gradient3: #54b5de;
-    --bg-image: none; /* Write the image url, example url("your url") [none is default]*/
-    --opacity: 0; /* Value in numbers from 0 to 1, but there is a limit */
+    --bg-gradient1: #311432;
+    --bg-gradient2: #784B84;
+    --bg-gradient3: #9966CB;
+    --bg-image: url(https://cdn.donmai.us/original/0a/9d/__tsukino_mito_nijisanji__0a9d70e3b4eca8e18d297e01314ead68.png); /* Write the image url, example url("your url") [none is default]*/
+    --opacity: 0.2; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 6px; /* Value in px */
 
     /* HSL(Hue, Saturation, Lightness). This values will change the accent color (That blue color in most buttons) */
